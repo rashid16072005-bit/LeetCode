@@ -7,6 +7,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0031-next-permutation) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
@@ -20,4 +21,8 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
