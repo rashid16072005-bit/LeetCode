@@ -30,4 +30,12 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/3379-transformed-array) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
