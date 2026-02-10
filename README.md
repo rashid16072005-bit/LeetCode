@@ -9,6 +9,7 @@ Leet Code Problem solutions
 | [0001-two-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/rashid16072005-bit/LeetCode/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/rashid16072005-bit/LeetCode/tree/master/0078-subsets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/3379-transformed-array) |
 ## Hash Table
@@ -47,4 +48,12 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rashid16072005-bit/LeetCode/tree/master/0009-palindrome-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rashid16072005-bit/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rashid16072005-bit/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
