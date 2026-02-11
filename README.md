@@ -44,10 +44,12 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rashid16072005-bit/LeetCode/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/rashid16072005-bit/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rashid16072005-bit/LeetCode/tree/master/0009-palindrome-number) |
+| [0367-valid-perfect-square](https://github.com/rashid16072005-bit/LeetCode/tree/master/0367-valid-perfect-square) |
 ## Backtracking
 |  |
 | ------- |
