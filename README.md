@@ -31,11 +31,13 @@ Leet Code Problem solutions
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/rashid16072005-bit/LeetCode/tree/master/0412-fizz-buzz) |
 | [3379-transformed-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/3379-transformed-array) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/rashid16072005-bit/LeetCode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +52,7 @@ Leet Code Problem solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/rashid16072005-bit/LeetCode/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/rashid16072005-bit/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/rashid16072005-bit/LeetCode/tree/master/0412-fizz-buzz) |
 ## Backtracking
 |  |
 | ------- |
