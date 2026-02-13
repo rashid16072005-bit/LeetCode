@@ -10,6 +10,7 @@ Leet Code Problem solutions
 | [0031-next-permutation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/rashid16072005-bit/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/rashid16072005-bit/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/rashid16072005-bit/LeetCode/tree/master/0078-subsets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/3379-transformed-array) |
@@ -32,6 +33,7 @@ Leet Code Problem solutions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/rashid16072005-bit/LeetCode/tree/master/0412-fizz-buzz) |
 | [3379-transformed-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/3379-transformed-array) |
 ## String
@@ -67,4 +69,5 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rashid16072005-bit/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
