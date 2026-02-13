@@ -12,6 +12,7 @@ Leet Code Problem solutions
 | [0048-rotate-image](https://github.com/rashid16072005-bit/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/rashid16072005-bit/LeetCode/tree/master/0078-subsets) |
+| [2614-prime-in-diagonal](https://github.com/rashid16072005-bit/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/3379-transformed-array) |
 ## Hash Table
@@ -57,6 +58,7 @@ Leet Code Problem solutions
 | [0048-rotate-image](https://github.com/rashid16072005-bit/LeetCode/tree/master/0048-rotate-image) |
 | [0367-valid-perfect-square](https://github.com/rashid16072005-bit/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rashid16072005-bit/LeetCode/tree/master/0412-fizz-buzz) |
+| [2614-prime-in-diagonal](https://github.com/rashid16072005-bit/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Backtracking
 |  |
 | ------- |
@@ -70,4 +72,9 @@ Leet Code Problem solutions
 | ------- |
 | [0048-rotate-image](https://github.com/rashid16072005-bit/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0054-spiral-matrix) |
+| [2614-prime-in-diagonal](https://github.com/rashid16072005-bit/LeetCode/tree/master/2614-prime-in-diagonal) |
+## Number Theory
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/rashid16072005-bit/LeetCode/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
