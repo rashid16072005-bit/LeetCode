@@ -69,6 +69,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rashid16072005-bit/LeetCode/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/rashid16072005-bit/LeetCode/tree/master/0190-reverse-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -79,4 +80,8 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [2614-prime-in-diagonal](https://github.com/rashid16072005-bit/LeetCode/tree/master/2614-prime-in-diagonal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/rashid16072005-bit/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
