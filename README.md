@@ -61,6 +61,7 @@ Leet Code Problem solutions
 | [0258-add-digits](https://github.com/rashid16072005-bit/LeetCode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/rashid16072005-bit/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rashid16072005-bit/LeetCode/tree/master/0412-fizz-buzz) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/rashid16072005-bit/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2614-prime-in-diagonal](https://github.com/rashid16072005-bit/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2843-count-symmetric-integers](https://github.com/rashid16072005-bit/LeetCode/tree/master/2843-count-symmetric-integers) |
 ## Backtracking
