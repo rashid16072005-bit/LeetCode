@@ -43,6 +43,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/rashid16072005-bit/LeetCode/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/rashid16072005-bit/LeetCode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
