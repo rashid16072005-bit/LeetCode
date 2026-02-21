@@ -3,7 +3,7 @@ public:
     bool isPrime(int n){
         if(n==1) return false;
         
-        for(int i=2;i<n;i++){
+        for(int i=2;i<=sqrt(n);i++){
             if(n%i==0)
             // {
             //     flag = false;
@@ -16,8 +16,7 @@ public:
     int countPrimeSetBits(int left, int right) {
         int cnt = 0;
         for(int i=left;i<=right;i++){
-            int sb = __builtin_popcount(i);
-            if(isPrime(sb)) cnt++;
+            if(isPrime(__builtin_popcount(i))) cnt++;
         }
         return cnt;
     }
