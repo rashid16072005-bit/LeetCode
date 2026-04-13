@@ -14,6 +14,7 @@ Leet Code Problem solutions
 | [0054-spiral-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/rashid16072005-bit/LeetCode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0204-count-primes) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2614-prime-in-diagonal](https://github.com/rashid16072005-bit/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/3379-transformed-array) |
