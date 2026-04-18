@@ -72,6 +72,7 @@ Leet Code Problem solutions
 | [1716-calculate-money-in-leetcode-bank](https://github.com/rashid16072005-bit/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2614-prime-in-diagonal](https://github.com/rashid16072005-bit/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2843-count-symmetric-integers](https://github.com/rashid16072005-bit/LeetCode/tree/master/2843-count-symmetric-integers) |
+| [3783-mirror-distance-of-an-integer](https://github.com/rashid16072005-bit/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Backtracking
 |  |
 | ------- |
