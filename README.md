@@ -15,6 +15,7 @@ Leet Code Problem solutions
 | [0078-subsets](https://github.com/rashid16072005-bit/LeetCode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0204-count-primes) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/rashid16072005-bit/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2614-prime-in-diagonal](https://github.com/rashid16072005-bit/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3379-transformed-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/3379-transformed-array) |
@@ -101,4 +102,8 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/rashid16072005-bit/LeetCode/tree/master/0190-reverse-bits) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/rashid16072005-bit/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
