@@ -37,6 +37,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0061-rotate-list) |
 ## Simulation
 |  |
 | ------- |
@@ -111,4 +112,8 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/rashid16072005-bit/LeetCode/tree/master/2833-furthest-point-from-origin) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
