@@ -30,14 +30,13 @@ public:
             curr = Next;
         }
         p2 = prev;
-        int max = INT_MIN;
-        while(head){
-            if(max < p1->val+p2->val)
-                max = p1->val+p2->val;
+        int res = INT_MIN;
+        while(p1){
+            res = max(res,p1->val+p2->val);
             p1 = p1->next;
             p2 = p2->next;
-            head = head->next;
+            // head = head->next;
         }
-        return max;
+        return res;
     }
 };
