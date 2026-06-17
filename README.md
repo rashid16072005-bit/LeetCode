@@ -84,6 +84,7 @@ Leet Code Problem solutions
 | [0258-add-digits](https://github.com/rashid16072005-bit/LeetCode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/rashid16072005-bit/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rashid16072005-bit/LeetCode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/rashid16072005-bit/LeetCode/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/rashid16072005-bit/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
