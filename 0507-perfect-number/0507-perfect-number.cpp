@@ -14,13 +14,6 @@ public:
         // }
 
         // M-II Optimised
-        // for(int i=2;i>1;i--)
-        // {
-        //     if(num%i==0)
-        //     {
-        //         sum += num/i;
-        //     }
-        // }
         for(int i=2;i<=sqrt(num);i++)
         {
             if(num%i==0)
@@ -30,7 +23,6 @@ public:
             }
         }
         sum += 1;
-        if(sum==num) return true;
-        else return false;
+        return (sum==num);
     }
 };
