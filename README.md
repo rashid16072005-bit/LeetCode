@@ -134,6 +134,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
