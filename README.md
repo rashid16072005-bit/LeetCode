@@ -14,6 +14,7 @@ Leet Code Problem solutions
 | [0054-spiral-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/rashid16072005-bit/LeetCode/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0204-count-primes) |
+| [1732-find-the-highest-altitude](https://github.com/rashid16072005-bit/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rashid16072005-bit/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -135,4 +136,8 @@ Leet Code Problem solutions
 | [0061-rotate-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0061-rotate-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/rashid16072005-bit/LeetCode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
