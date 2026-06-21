@@ -142,6 +142,7 @@ Leet Code Problem solutions
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0148-sort-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/rashid16072005-bit/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
