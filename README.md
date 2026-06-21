@@ -47,6 +47,7 @@ Leet Code Problem solutions
 | ------- |
 | [0031-next-permutation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -71,6 +72,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0143-reorder-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -138,6 +140,7 @@ Leet Code Problem solutions
 | ------- |
 | [0061-rotate-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -149,4 +152,8 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
