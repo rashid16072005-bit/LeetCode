@@ -192,4 +192,16 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/rashid16072005-bit/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
