@@ -83,6 +83,7 @@ Leet Code Problem solutions
 | [0020-valid-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rashid16072005-bit/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rashid16072005-bit/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -198,6 +199,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rashid16072005-bit/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rashid16072005-bit/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -205,6 +207,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rashid16072005-bit/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rashid16072005-bit/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -212,6 +215,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rashid16072005-bit/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/rashid16072005-bit/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0543-diameter-of-binary-tree) |
