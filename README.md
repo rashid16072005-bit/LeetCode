@@ -73,6 +73,7 @@ Leet Code Problem solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/rashid16072005-bit/LeetCode/tree/master/0058-length-of-last-word) |
+| [0257-binary-tree-paths](https://github.com/rashid16072005-bit/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/rashid16072005-bit/LeetCode/tree/master/0412-fizz-buzz) |
 | [2833-furthest-point-from-origin](https://github.com/rashid16072005-bit/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3612-process-string-with-special-operations-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -113,6 +114,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rashid16072005-bit/LeetCode/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/rashid16072005-bit/LeetCode/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -197,18 +199,21 @@ Leet Code Problem solutions
 | ------- |
 | [0100-same-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rashid16072005-bit/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rashid16072005-bit/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/rashid16072005-bit/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rashid16072005-bit/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
