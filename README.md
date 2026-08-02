@@ -13,6 +13,7 @@ Leet Code Problem solutions
 | [0035-search-insert-position](https://github.com/rashid16072005-bit/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/rashid16072005-bit/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/rashid16072005-bit/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rashid16072005-bit/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rashid16072005-bit/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0204-count-primes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0204-count-primes) |
@@ -40,6 +41,7 @@ Leet Code Problem solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rashid16072005-bit/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashid16072005-bit/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -58,6 +60,7 @@ Leet Code Problem solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/rashid16072005-bit/LeetCode/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0283-move-zeroes) |
