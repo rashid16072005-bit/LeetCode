@@ -103,6 +103,7 @@ Leet Code Problem solutions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rashid16072005-bit/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rashid16072005-bit/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rashid16072005-bit/LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0204-count-primes) |
