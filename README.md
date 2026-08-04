@@ -18,6 +18,7 @@ Leet Code Problem solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/rashid16072005-bit/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0169-majority-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/rashid16072005-bit/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashid16072005-bit/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -39,6 +40,7 @@ Leet Code Problem solutions
 | ------- |
 | [0001-two-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0229-majority-element-ii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/rashid16072005-bit/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Sorting
@@ -47,6 +49,7 @@ Leet Code Problem solutions
 | [0075-sort-colors](https://github.com/rashid16072005-bit/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashid16072005-bit/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/rashid16072005-bit/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -167,6 +170,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0229-majority-element-ii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2833-furthest-point-from-origin](https://github.com/rashid16072005-bit/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Linked List
@@ -261,4 +265,5 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
