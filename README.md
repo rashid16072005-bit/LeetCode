@@ -29,6 +29,7 @@ Leet Code Problem solutions
 | [1732-find-the-highest-altitude](https://github.com/rashid16072005-bit/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rashid16072005-bit/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rashid16072005-bit/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rashid16072005-bit/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -154,6 +155,7 @@ Leet Code Problem solutions
 | [0054-spiral-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0054-spiral-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/1572-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rashid16072005-bit/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2614-prime-in-diagonal](https://github.com/rashid16072005-bit/LeetCode/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
 |  |
