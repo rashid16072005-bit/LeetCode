@@ -25,6 +25,7 @@ Leet Code Problem solutions
 | [0283-move-zeroes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashid16072005-bit/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0861-score-after-flipping-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0861-score-after-flipping-matrix) |
+| [0877-stone-game](https://github.com/rashid16072005-bit/LeetCode/tree/master/0877-stone-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -131,6 +132,7 @@ Leet Code Problem solutions
 | [0507-perfect-number](https://github.com/rashid16072005-bit/LeetCode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashid16072005-bit/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/rashid16072005-bit/LeetCode/tree/master/0877-stone-game) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/rashid16072005-bit/LeetCode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -286,4 +288,17 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rashid16072005-bit/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/rashid16072005-bit/LeetCode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rashid16072005-bit/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rashid16072005-bit/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rashid16072005-bit/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
