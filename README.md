@@ -18,6 +18,7 @@ Leet Code Problem solutions
 | [0078-subsets](https://github.com/rashid16072005-bit/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rashid16072005-bit/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rashid16072005-bit/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/rashid16072005-bit/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0229-majority-element-ii) |
@@ -151,6 +152,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/rashid16072005-bit/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/rashid16072005-bit/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/rashid16072005-bit/LeetCode/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/rashid16072005-bit/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
