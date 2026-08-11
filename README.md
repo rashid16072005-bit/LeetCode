@@ -24,6 +24,7 @@ Leet Code Problem solutions
 | [0229-majority-element-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/rashid16072005-bit/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/rashid16072005-bit/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashid16072005-bit/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0861-score-after-flipping-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/rashid16072005-bit/LeetCode/tree/master/0877-stone-game) |
