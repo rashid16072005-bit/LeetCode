@@ -11,6 +11,7 @@ Leet Code Problem solutions
 | [0031-next-permutation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rashid16072005-bit/LeetCode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/rashid16072005-bit/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/rashid16072005-bit/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/rashid16072005-bit/LeetCode/tree/master/0066-plus-one) |
@@ -48,6 +49,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/rashid16072005-bit/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0229-majority-element-ii) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
