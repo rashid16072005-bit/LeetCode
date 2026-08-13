@@ -52,6 +52,7 @@ Leet Code Problem solutions
 | [0041-first-missing-positive](https://github.com/rashid16072005-bit/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/rashid16072005-bit/LeetCode/tree/master/0242-valid-anagram) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/rashid16072005-bit/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Sorting
@@ -61,6 +62,7 @@ Leet Code Problem solutions
 | [0148-sort-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/rashid16072005-bit/LeetCode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashid16072005-bit/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/rashid16072005-bit/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -101,6 +103,7 @@ Leet Code Problem solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/rashid16072005-bit/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/rashid16072005-bit/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/rashid16072005-bit/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/rashid16072005-bit/LeetCode/tree/master/0412-fizz-buzz) |
 | [2833-furthest-point-from-origin](https://github.com/rashid16072005-bit/LeetCode/tree/master/2833-furthest-point-from-origin) |
