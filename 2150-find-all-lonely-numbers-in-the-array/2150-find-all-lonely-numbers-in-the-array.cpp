@@ -8,8 +8,8 @@ public:
             m[nums[i]]++;
         }
         for(int i=0;i<n;i++){
-            if(m[nums[i]]>1 || m.find(nums[i]+1)!=m.end() || m.find(nums[i]-1)!=m.end()) continue;
-            else v.push_back(nums[i]);
+            if(m[nums[i]]==1 && m.count(nums[i] + 1) == 0 && m.count(nums[i] - 1) == 0) 
+            v.push_back(nums[i]);
         }
         return v;
     }
