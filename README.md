@@ -50,6 +50,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rashid16072005-bit/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/rashid16072005-bit/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0229-majority-element-ii) |
@@ -105,6 +106,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/rashid16072005-bit/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/rashid16072005-bit/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/rashid16072005-bit/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -137,6 +139,7 @@ Leet Code Problem solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/rashid16072005-bit/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rashid16072005-bit/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rashid16072005-bit/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/rashid16072005-bit/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rashid16072005-bit/LeetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0204-count-primes) |
