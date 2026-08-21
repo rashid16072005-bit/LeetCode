@@ -7,6 +7,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rashid16072005-bit/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0031-next-permutation) |
@@ -134,6 +135,7 @@ Leet Code Problem solutions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rashid16072005-bit/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rashid16072005-bit/LeetCode/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/rashid16072005-bit/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -200,6 +202,7 @@ Leet Code Problem solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rashid16072005-bit/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rashid16072005-bit/LeetCode/tree/master/0190-reverse-bits) |
