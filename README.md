@@ -165,6 +165,7 @@ Leet Code Problem solutions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rashid16072005-bit/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rashid16072005-bit/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rashid16072005-bit/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Backtracking
 |  |
