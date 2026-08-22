@@ -28,6 +28,7 @@ Leet Code Problem solutions
 | [0239-sliding-window-maximum](https://github.com/rashid16072005-bit/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rashid16072005-bit/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashid16072005-bit/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0861-score-after-flipping-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/rashid16072005-bit/LeetCode/tree/master/0877-stone-game) |
@@ -139,6 +140,7 @@ Leet Code Problem solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rashid16072005-bit/LeetCode/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/rashid16072005-bit/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
