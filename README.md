@@ -347,4 +347,12 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rashid16072005-bit/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rashid16072005-bit/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
