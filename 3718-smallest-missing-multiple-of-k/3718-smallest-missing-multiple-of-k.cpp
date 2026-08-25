@@ -1,19 +1,17 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        map<int , int> m;
-        for(int i=0;i<nums.size();i++){
-            m[nums[i]]++;
+        vector<bool> freq(101,0);
+
+        for(int i=0;i<nums.size();i++)
+        freq[nums[i]] = 1;
+
+        int i = k;
+        while(i <= 100) {
+            if(!freq[i])
+            return i;
+            i += k;
         }
-        int i = 1;
-        int temp;
-        while(true){
-            temp = k * i;
-            if(m.find(temp)!=m.end()){
-                i++;
-            }
-            else return temp;
-        }
-        return temp;
+        return ((100 / k) + 1) * k;
     }
 };
