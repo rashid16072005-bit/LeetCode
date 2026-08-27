@@ -111,6 +111,7 @@ Leet Code Problem solutions
 | [0412-fizz-buzz](https://github.com/rashid16072005-bit/LeetCode/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rashid16072005-bit/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2810-faulty-keyboard](https://github.com/rashid16072005-bit/LeetCode/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/3379-transformed-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -128,6 +129,7 @@ Leet Code Problem solutions
 | [0412-fizz-buzz](https://github.com/rashid16072005-bit/LeetCode/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/0796-rotate-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [2810-faulty-keyboard](https://github.com/rashid16072005-bit/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/rashid16072005-bit/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3612-process-string-with-special-operations-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Stack
