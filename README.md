@@ -57,6 +57,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rashid16072005-bit/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rashid16072005-bit/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/rashid16072005-bit/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/0169-majority-element) |
@@ -118,6 +119,7 @@ Leet Code Problem solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rashid16072005-bit/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/rashid16072005-bit/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/rashid16072005-bit/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -279,6 +281,7 @@ Leet Code Problem solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rashid16072005-bit/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/rashid16072005-bit/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
