@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
+        if(x<0) return false;
         // bool flag = false;
         // long long pal = 0;
         // long long num = x;
