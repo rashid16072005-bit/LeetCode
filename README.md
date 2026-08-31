@@ -167,6 +167,7 @@ Leet Code Problem solutions
 | [0066-plus-one](https://github.com/rashid16072005-bit/LeetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rashid16072005-bit/LeetCode/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/rashid16072005-bit/LeetCode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/rashid16072005-bit/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rashid16072005-bit/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -377,4 +378,8 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rashid16072005-bit/LeetCode/tree/master/0075-sort-colors) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/rashid16072005-bit/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
