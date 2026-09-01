@@ -9,8 +9,8 @@ public:
             w = j- i;
             int water = h * w;
             M_Water = max(M_Water,water);
-            if(height[i]==height[j]) i++;
-            else if(height[i]<height[j]) i++;
+            // if(height[i]==height[j]) i++;
+             if(height[i]<height[j]) i++;
             else j--;
 
         }
