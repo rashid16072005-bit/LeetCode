@@ -8,6 +8,7 @@ Leet Code Problem solutions
 | ------- |
 | [0001-two-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rashid16072005-bit/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/rashid16072005-bit/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0031-next-permutation) |
@@ -92,6 +93,7 @@ Leet Code Problem solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rashid16072005-bit/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0061-rotate-list) |
@@ -229,6 +231,7 @@ Leet Code Problem solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rashid16072005-bit/LeetCode/tree/master/0011-container-with-most-water) |
 | [0861-score-after-flipping-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rashid16072005-bit/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Counting
