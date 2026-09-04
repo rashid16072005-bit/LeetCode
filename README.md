@@ -56,6 +56,7 @@ Leet Code Problem solutions
 | [3379-transformed-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/3379-transformed-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rashid16072005-bit/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -265,6 +266,7 @@ Leet Code Problem solutions
 | ------- |
 | [0724-find-pivot-index](https://github.com/rashid16072005-bit/LeetCode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/rashid16072005-bit/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [3903-smallest-stable-index-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Merge Sort
 |  |
 | ------- |
