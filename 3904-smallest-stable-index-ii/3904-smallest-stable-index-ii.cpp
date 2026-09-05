@@ -21,11 +21,9 @@ public:
         }
         for(int i=n-1;i>=0;i--){
             Min = min(Min,nums[i]);
-            suf[i] = Min;
+            if((pre[i]-Min<=k)) idx = i;
         }
-        for(int i=0;i<n;i++){
-            if((pre[i]-suf[i]<=k)) return i;
-        }
+        if(idx!=-1) return idx;
         return -1;
     }
 };
