@@ -14,7 +14,7 @@ public:
         //     }
         //     if(Max-Min <= k) return i;
         // }
-        int pre[n],suf[n],Max = INT_MIN,Min = INT_MAX;
+        int pre[n],Max = INT_MIN,Min = INT_MAX;
         for(int i=0;i<n;i++){
             Max = max(Max,nums[i]);
             pre[i] = Max;
