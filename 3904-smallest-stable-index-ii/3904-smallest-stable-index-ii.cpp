@@ -2,7 +2,7 @@ class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
         int n = nums.size();
-        int idx = -1;
+        // int idx = -1;
         // for(int i=0;i<n;i++){
         //     int Max = INT_MIN;
         //     int Min = INT_MAX;
@@ -14,16 +14,15 @@ public:
         //     }
         //     if(Max-Min <= k) return i;
         // }
-        int pre[n],Max = INT_MIN,Min = INT_MAX;
-        for(int i=0;i<n;i++){
-            Max = max(Max,nums[i]);
-            pre[i] = Max;
-        }
+        int suf[n],Max = INT_MIN,Min = INT_MAX;
         for(int i=n-1;i>=0;i--){
             Min = min(Min,nums[i]);
-            if((pre[i]-Min<=k)) idx = i;
+            suf[i] = Min;
         }
-        if(idx!=-1) return idx;
+        for(int i=0;i<n;i++){
+            Max = max(Max,nums[i]);
+            if((Max-suf[i]<=k)) return i;
+        }
         return -1;
     }
 };
