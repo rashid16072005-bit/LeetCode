@@ -28,6 +28,7 @@ Leet Code Problem solutions
 | [0204-count-primes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/rashid16072005-bit/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0275-h-index-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rashid16072005-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/rashid16072005-bit/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -161,6 +162,7 @@ Leet Code Problem solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/rashid16072005-bit/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rashid16072005-bit/LeetCode/tree/master/0035-search-insert-position) |
+| [0275-h-index-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/rashid16072005-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/rashid16072005-bit/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
