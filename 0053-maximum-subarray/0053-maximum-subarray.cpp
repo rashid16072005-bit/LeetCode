@@ -18,14 +18,6 @@ public:
                 max_sum = max(max_sum,nums[i]);
             }
         }
-
-        // for(int i=0;i<n;i++){
-        //     for(int j=i;j<n;j++){
-        //         curr_sum = i==0 ? nums[j] : nums[j] - nums[i-1];
-        //         max_sum = max(max_sum,curr_sum);
-        //     }
-            
-        // }
         return max_sum;
     }
 };
