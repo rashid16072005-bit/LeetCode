@@ -52,6 +52,7 @@ Leet Code Problem solutions
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/rashid16072005-bit/LeetCode/tree/master/2614-prime-in-diagonal) |
+| [2733-neither-minimum-nor-maximum](https://github.com/rashid16072005-bit/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/rashid16072005-bit/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -90,6 +91,7 @@ Leet Code Problem solutions
 | [0349-intersection-of-two-arrays](https://github.com/rashid16072005-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashid16072005-bit/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/rashid16072005-bit/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/rashid16072005-bit/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rashid16072005-bit/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
