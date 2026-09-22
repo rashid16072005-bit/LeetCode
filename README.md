@@ -38,6 +38,7 @@ Leet Code Problem solutions
 | [0724-find-pivot-index](https://github.com/rashid16072005-bit/LeetCode/tree/master/0724-find-pivot-index) |
 | [0861-score-after-flipping-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/rashid16072005-bit/LeetCode/tree/master/0877-stone-game) |
+| [1089-duplicate-zeros](https://github.com/rashid16072005-bit/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/rashid16072005-bit/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -119,6 +120,7 @@ Leet Code Problem solutions
 | [0283-move-zeroes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rashid16072005-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/rashid16072005-bit/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1089-duplicate-zeros](https://github.com/rashid16072005-bit/LeetCode/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rashid16072005-bit/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
