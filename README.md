@@ -59,6 +59,7 @@ Leet Code Problem solutions
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/3379-transformed-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rashid16072005-bit/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rashid16072005-bit/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -219,6 +220,7 @@ Leet Code Problem solutions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/rashid16072005-bit/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rashid16072005-bit/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rashid16072005-bit/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rashid16072005-bit/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/rashid16072005-bit/LeetCode/tree/master/3870-count-commas-in-range) |
