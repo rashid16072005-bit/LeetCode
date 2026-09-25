@@ -16,5 +16,20 @@ public:
 
         }
         return n+1;
+
+        // OR
+        // for(auto &it: v){
+        //     if(it <= 0 || it > n) it = 1e6;
+        // }
+
+        // for(int i=0; i<n; i++){
+        //     int x = abs(v[i]);
+        //     if(x<=n){
+        //         v[x-1] = -abs(v[x-1]);
+        //     }
+        // }
+
+        // for(int i=0;i<n;i++) if(v[i]>0) return i+1;
+        // return n+1;
     }
 };
