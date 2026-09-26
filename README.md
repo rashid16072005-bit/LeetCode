@@ -44,6 +44,7 @@ Leet Code Problem solutions
 | [1512-number-of-good-pairs](https://github.com/rashid16072005-bit/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/rashid16072005-bit/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rashid16072005-bit/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -78,6 +79,7 @@ Leet Code Problem solutions
 | [0383-ransom-note](https://github.com/rashid16072005-bit/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/rashid16072005-bit/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2784-check-if-array-is-good](https://github.com/rashid16072005-bit/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -160,6 +162,7 @@ Leet Code Problem solutions
 | [0709-to-lower-case](https://github.com/rashid16072005-bit/LeetCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/rashid16072005-bit/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2810-faulty-keyboard](https://github.com/rashid16072005-bit/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/rashid16072005-bit/LeetCode/tree/master/2833-furthest-point-from-origin) |
