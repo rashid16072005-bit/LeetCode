@@ -163,6 +163,7 @@ Leet Code Problem solutions
 | [0796-rotate-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/rashid16072005-bit/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2810-faulty-keyboard](https://github.com/rashid16072005-bit/LeetCode/tree/master/2810-faulty-keyboard) |
@@ -183,6 +184,7 @@ Leet Code Problem solutions
 | [0445-add-two-numbers-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/rashid16072005-bit/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -450,4 +452,5 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rashid16072005-bit/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
