@@ -154,6 +154,7 @@ Leet Code Problem solutions
 | [0058-length-of-last-word](https://github.com/rashid16072005-bit/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rashid16072005-bit/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/rashid16072005-bit/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/rashid16072005-bit/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/rashid16072005-bit/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/rashid16072005-bit/LeetCode/tree/master/0383-ransom-note) |
@@ -206,6 +207,7 @@ Leet Code Problem solutions
 | [0013-roman-to-integer](https://github.com/rashid16072005-bit/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/rashid16072005-bit/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rashid16072005-bit/LeetCode/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/rashid16072005-bit/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rashid16072005-bit/LeetCode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/rashid16072005-bit/LeetCode/tree/master/0319-bulb-switcher) |
