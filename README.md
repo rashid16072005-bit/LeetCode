@@ -25,6 +25,7 @@ Leet Code Problem solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/rashid16072005-bit/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rashid16072005-bit/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rashid16072005-bit/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rashid16072005-bit/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rashid16072005-bit/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0229-majority-element-ii) |
@@ -121,6 +122,7 @@ Leet Code Problem solutions
 | [0143-reorder-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rashid16072005-bit/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rashid16072005-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/rashid16072005-bit/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -194,6 +196,7 @@ Leet Code Problem solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/rashid16072005-bit/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rashid16072005-bit/LeetCode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rashid16072005-bit/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0275-h-index-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/rashid16072005-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/rashid16072005-bit/LeetCode/tree/master/0367-valid-perfect-square) |
