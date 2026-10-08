@@ -221,6 +221,7 @@ Leet Code Problem solutions
 | [0204-count-primes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rashid16072005-bit/LeetCode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/rashid16072005-bit/LeetCode/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/rashid16072005-bit/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/rashid16072005-bit/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rashid16072005-bit/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -258,6 +259,7 @@ Leet Code Problem solutions
 | [0136-single-number](https://github.com/rashid16072005-bit/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/rashid16072005-bit/LeetCode/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/rashid16072005-bit/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/rashid16072005-bit/LeetCode/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/rashid16072005-bit/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0861-score-after-flipping-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0861-score-after-flipping-matrix) |
@@ -337,6 +339,7 @@ Leet Code Problem solutions
 | [0002-add-two-numbers](https://github.com/rashid16072005-bit/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/rashid16072005-bit/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/rashid16072005-bit/LeetCode/tree/master/0143-reorder-list) |
+| [0342-power-of-four](https://github.com/rashid16072005-bit/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/rashid16072005-bit/LeetCode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
