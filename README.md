@@ -57,6 +57,7 @@ Leet Code Problem solutions
 | [2553-separate-the-digits-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2614-prime-in-diagonal](https://github.com/rashid16072005-bit/LeetCode/tree/master/2614-prime-in-diagonal) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rashid16072005-bit/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rashid16072005-bit/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/rashid16072005-bit/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -106,6 +107,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rashid16072005-bit/LeetCode/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/rashid16072005-bit/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/rashid16072005-bit/LeetCode/tree/master/2843-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
