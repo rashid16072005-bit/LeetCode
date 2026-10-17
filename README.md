@@ -469,6 +469,7 @@ Leet Code Problem solutions
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/rashid16072005-bit/LeetCode/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/rashid16072005-bit/LeetCode/tree/master/0182-duplicate-emails) |
 ## Geometry
 |  |
 | ------- |
