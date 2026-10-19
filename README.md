@@ -53,6 +53,7 @@ Leet Code Problem solutions
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rashid16072005-bit/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/rashid16072005-bit/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rashid16072005-bit/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -100,6 +101,7 @@ Leet Code Problem solutions
 | [0349-intersection-of-two-arrays](https://github.com/rashid16072005-bit/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rashid16072005-bit/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rashid16072005-bit/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2784-check-if-array-is-good](https://github.com/rashid16072005-bit/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -215,6 +217,7 @@ Leet Code Problem solutions
 | [0367-valid-perfect-square](https://github.com/rashid16072005-bit/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
