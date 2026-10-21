@@ -186,6 +186,7 @@ Leet Code Problem solutions
 | [3498-reverse-degree-of-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3794-reverse-string-prefix](https://github.com/rashid16072005-bit/LeetCode/tree/master/3794-reverse-string-prefix) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |
