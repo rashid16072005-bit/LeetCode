@@ -66,6 +66,7 @@ Leet Code Problem solutions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/3379-transformed-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rashid16072005-bit/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/rashid16072005-bit/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rashid16072005-bit/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -275,6 +276,7 @@ Leet Code Problem solutions
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/rashid16072005-bit/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0861-score-after-flipping-matrix](https://github.com/rashid16072005-bit/LeetCode/tree/master/0861-score-after-flipping-matrix) |
 | [0868-binary-gap](https://github.com/rashid16072005-bit/LeetCode/tree/master/0868-binary-gap) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/rashid16072005-bit/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Matrix
 |  |
 | ------- |
