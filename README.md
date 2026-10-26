@@ -482,6 +482,7 @@ Leet Code Problem solutions
 | [0177-nth-highest-salary](https://github.com/rashid16072005-bit/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0182-duplicate-emails](https://github.com/rashid16072005-bit/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/rashid16072005-bit/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/rashid16072005-bit/LeetCode/tree/master/0184-department-highest-salary) |
 | [0596-classes-with-at-least-5-students](https://github.com/rashid16072005-bit/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 ## Geometry
 |  |
