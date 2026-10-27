@@ -9,12 +9,12 @@ class Solution {
         // arr[1][2] = ".";
         
         for(int i=0;i<m;i++){
-            String str = "";
+            StringBuilder str = new StringBuilder("");
             for(int j=0;j<n;j++){
-                if(i==0 || j==n-1) str += ".";
-                else str += "#";
+                if(i==0 || j==n-1) str.append(".");
+                else str.append("#");
             }
-            arr[i] = str;
+            arr[i] = str.toString();
         }
         
         return arr;
