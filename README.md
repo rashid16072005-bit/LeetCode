@@ -72,6 +72,7 @@ Leet Code Problem solutions
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rashid16072005-bit/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/rashid16072005-bit/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rashid16072005-bit/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rashid16072005-bit/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -266,6 +267,7 @@ Leet Code Problem solutions
 | [3536-maximum-product-of-two-digits](https://github.com/rashid16072005-bit/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rashid16072005-bit/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rashid16072005-bit/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rashid16072005-bit/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rashid16072005-bit/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/rashid16072005-bit/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rashid16072005-bit/LeetCode/tree/master/3871-count-commas-in-range-ii) |
