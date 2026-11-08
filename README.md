@@ -500,6 +500,7 @@ Leet Code Problem solutions
 | [0182-duplicate-emails](https://github.com/rashid16072005-bit/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/rashid16072005-bit/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/rashid16072005-bit/LeetCode/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/rashid16072005-bit/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/rashid16072005-bit/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-with-at-least-5-students](https://github.com/rashid16072005-bit/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/rashid16072005-bit/LeetCode/tree/master/0620-not-boring-movies) |
