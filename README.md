@@ -68,6 +68,7 @@ Leet Code Problem solutions
 | [2784-check-if-array-is-good](https://github.com/rashid16072005-bit/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/rashid16072005-bit/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rashid16072005-bit/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3379-transformed-array](https://github.com/rashid16072005-bit/LeetCode/tree/master/3379-transformed-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rashid16072005-bit/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
