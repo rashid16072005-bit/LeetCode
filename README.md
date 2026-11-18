@@ -199,6 +199,7 @@ Leet Code Problem solutions
 | [2390-removing-stars-from-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/rashid16072005-bit/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/rashid16072005-bit/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/rashid16072005-bit/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/rashid16072005-bit/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
