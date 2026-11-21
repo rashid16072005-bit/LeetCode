@@ -518,6 +518,7 @@ Leet Code Problem solutions
 | [0627-swap-sex-of-employees](https://github.com/rashid16072005-bit/LeetCode/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/rashid16072005-bit/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/rashid16072005-bit/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1667-fix-names-in-a-table](https://github.com/rashid16072005-bit/LeetCode/tree/master/1667-fix-names-in-a-table) |
 ## Geometry
 |  |
 | ------- |
