@@ -196,6 +196,7 @@ Leet Code Problem solutions
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/2109-adding-spaces-to-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/rashid16072005-bit/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/rashid16072005-bit/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/rashid16072005-bit/LeetCode/tree/master/2810-faulty-keyboard) |
 | [2833-furthest-point-from-origin](https://github.com/rashid16072005-bit/LeetCode/tree/master/2833-furthest-point-from-origin) |
